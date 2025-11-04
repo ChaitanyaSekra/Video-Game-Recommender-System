@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Game Recommender</title>
+  <link rel="icon" href="static/favicon.png" type="image/png">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .ui-autocomplete {
+      max-height: 350px;
+      overflow-y: auto;
+      background-color: #fffbe7;
+      border: 1px solid #e9c46a;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+
+<body class="bg-[#3C096C] min-h-screen p-6">
+  <div class="max-w-4xl mx-auto bg-[#784DEB] p-6 rounded shadow">
+    <h1 class="text-3xl font-bold mb-6 text-center text-[#ffffff]">🎮 Game Recommendation System</h1>
+
+    <!-- Loader Overlay -->
+    <div id="loader" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+      <div class="w-16 h-16 border-4 border-t-transparent border-white rounded-full animate-spin"></div>
+    </div>
+
+    <!-- Form to get recommendations -->
+    <form method="POST" class="mb-8">
+      <div class="flex flex-col md:flex-row md:items-center md:gap-4">
+
+        <!-- Game Dropdown -->
+        <div class="flex-1 mb-4 md:mb-0">
+          <label for="game_search" class="block text-sm font-medium mb-1">Search Game:</label>
+          <input type="text" name="game" id="game_search" class="w-full p-2 border border-gray-300 rounded"
+            placeholder="Start typing a game name..." value="{{ selected_game }}" required>
+        </div>
+
+        <!-- Feature Dropdown -->
+        <div class="flex-1">
+          <label for="feature" class="block text-sm font-medium mb-1">Select Feature:</label>
+          <select name="feature" id="feature" class="w-full p-2 border border-gray-300 rounded" required>
+            {% for key in feature_options.keys() %}
+            <option value="{{ key }}" {% if key==selected_feature %}selected{% endif %}>{{ key | capitalize }}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        <!-- Submit Button -->
+        <button type="submit" class="mt-4 md:mt-6 bg-[#10002B] text-white px-4 py-2 rounded hover:bg-blue-700">
+          Get Recommendations
+        </button>
+      </div>
+    </form>
+
+    <a href="{{ url_for('index') }}" class="block mt-6 text-center text-[#10002B] hover:underline">← Back to Home</a>
+
+    <!-- Recommendations Display -->
+    {% if recommendations %}
+    <h2 class="text-2xl font-semibold mb-4">Recommended Games:</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {% for rec in recommendations %}
+      <div class="p-4 border rounded shadow bg-[#E0AAFF]">
+        <h3 class="text-xl font-semibold mb-2 text-[#10002B]">{{ rec.name }}</h3>
+        <p class="text-[#264653] mt-2"><span class="font-medium">Similarity Score:</span> {{ rec.similarity }}</p>
+        <p class="text-[#264653]"><span class="font-medium">Rating:</span> {{ rec.rating_percent }}%</p>
+        <p class="text-[#264653]"><span class="font-medium">Genres:</span> {{ rec.genres }}</p>
+        <p class="text-[#264653]"><span class="font-medium">Categories:</span> {{ rec.categories }}</p>
+        <p class="text-[#264653]"><span class="font-medium">Price:</span> ${{ rec.price }}</p>
+        <p class="text-[#264653]"><span class="font-medium">Release Date:</span> {{ rec.release_date }}</p>
+        <p class="text-[#264653]"><span class="font-medium">Developer:</span> {{ rec.developer }}</p>
+        <p class="text-[#264653]"><span class="font-medium">Platforms:</span> {{ rec.platforms }}</p>
+        <p class="text-[#264653]"><span class="font-medium">Description:</span> {{ rec.short_description }}</p>
+        
+      </div>
+      {% endfor %}
+    </div>
+    {% elif selected_game %}
+    <p class="text-red-500">No similar games found above the threshold.</p>
+    {% endif %}
+  </div>
+</body>
+
+<script>
+  $(function () {
+    const games = {{ games | tojson | safe }};  
+
+    $("#game_search").autocomplete({
+      source: function(request, response) {
+        const term = request.term.toLowerCase();
+        const matches = games.filter(game => game.toLowerCase().includes(term));
+        response(matches);
+      },
+      minLength: 1,
+      select: function(event, ui) {
+        this.value = ui.item.value;
+      }
+    }).focus(function () {
+      if (this.value === "") {
+        $(this).autocomplete("search", "");
+      }
+    });
+  });
+</script>
+
+<script>
+  const form = document.querySelector("form");
+  const loader = document.getElementById("loader");
+  form.addEventListener("submit", () => {
+    loader.classList.remove("hidden");
+  });
+</script>
+
+</html>

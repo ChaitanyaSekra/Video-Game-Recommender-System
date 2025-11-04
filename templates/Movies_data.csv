@@ -1,0 +1,251 @@
+title,rating,year,duration,genre,director,stars,id
+The Shawshank Redemption,9.3,1994,142,"Epic, Period Drama, Prison Drama, Drama",Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",1
+The Godfather,9.2,1972,175,"Epic, Gangster, Tragedy, Crime, Drama",Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan",2
+The Dark Knight,9,2008,152,"Action Epic, Epic, Superhero, Tragedy, Action, Crime, Drama, Thriller",Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",3
+The Godfather Part II,9,1974,202,"Epic, Gangster, Tragedy, Crime, Drama",Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall",4
+12 Angry Men,9,1957,96,"Legal Drama, Psychological Drama, Crime, Drama",Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam",5
+The Lord of the Rings: The Return of the King,9,2003,201,"Action Epic, Adventure Epic, Epic, Fantasy Epic, Mountain Adventure, Quest, Sword & Sorcery, Tragedy, Adventure, Drama",Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen",6
+Schindlers List,9,1993,195,"Docudrama, Epic, Historical Epic, Period Drama, Prison Drama, Tragedy, Biography, Drama, History",Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley",7
+Pulp Fiction,8.9,1994,154,"Dark Comedy, Drug Crime, Gangster, Crime, Drama",Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson",8
+The Lord of the Rings: The Fellowship of the Ring,8.9,2001,178,"Action Epic, Adventure Epic, Dark Fantasy, Epic, Fantasy Epic, Quest, Sword & Sorcery, Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom",9
+"The Good, the Bad and the Ugly",8.8,1966,178,"Adventure Epic, Dark Comedy, Desert Adventure, Epic, Period Drama, Quest, Spaghetti Western, Western Epic, Adventure, Western",Sergio Leone,"Clint Eastwood, Eli Wallach, Lee Van Cleef",10
+Forrest Gump,8.8,1994,142,"Epic, Drama, Romance",Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise",11
+The Lord of the Rings: The Two Towers,8.8,2002,179,"Action Epic, Adventure Epic, Dark Fantasy, Epic, Fantasy Epic, Quest, Sword & Sorcery, Adventure, Drama, Fantasy",Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",12
+Fight Club,8.8,1999,139,"Psychological Drama, Psychological Thriller, Workplace Drama, Crime, Drama, Thriller",David Fincher,"Brad Pitt, Edward Norton, Meat Loaf",13
+Inception,8.8,2010,148,"Action Epic, Adventure Epic, Epic, Psychological Thriller, Sci-Fi Epic, Action, Adventure, Sci-Fi, Thriller",Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",14
+Star Wars: Episode V - The Empire Strikes Back,8.7,1980,124,"Action Epic, Adventure Epic, Dark Fantasy, Dystopian Sci-Fi, Epic, Fantasy Epic, Quest, Sci-Fi Epic, Space Sci-Fi, Sword & Sorcery",Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher",15
+The Matrix,8.7,1999,136,"Action Epic, Artificial Intelligence, Cyberpunk, Dystopian Sci-Fi, Gun Fu, Martial Arts, Sci-Fi Epic, Action, Sci-Fi",Lana Wachowski,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",16
+Goodfellas,8.7,1990,145,"Docudrama, Gangster, True Crime, Biography, Crime, Drama",Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",17
+Interstellar,8.7,2014,169,"Adventure Epic, Epic, Quest, Sci-Fi Epic, Space Sci-Fi, Time Travel, Adventure, Drama, Sci-Fi",Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",18
+One Flew Over the Cuckoos Nest,8.7,1975,133,"Medical Drama, Psychological Drama, Drama",Milos Forman,"Jack Nicholson, Louise Fletcher, Michael Berryman",19
+Se7en,8.6,1995,127,"Cop Drama, Hard-boiled Detective, Police Procedural, Psychological Drama, Psychological Thriller, Serial Killer, Tragedy, Crime, Drama, Mystery",David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey",20
+Its a Wonderful Life,8.6,1946,130,"Feel-Good Romance, Holiday Family, Holiday Romance, Psychological Drama, Supernatural Fantasy, Drama, Family, Fantasy, Holiday, Romance",Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore",21
+The Silence of the Lambs,8.6,1991,118,"Police Procedural, Psychological Drama, Psychological Horror, Psychological Thriller, Serial Killer, Crime, Drama, Horror, Thriller",Jonathan Demme,"Jodie Foster, Anthony Hopkins, Scott Glenn",22
+Seven Samurai,8.6,1954,207,"Action Epic, Epic, Period Drama, Samurai, Action, Drama",Akira Kurosawa,"Toshirô Mifune, Takashi Shimura, Keiko Tsushima",23
+Saving Private Ryan,8.6,1998,169,"Epic, Period Drama, War Epic, Drama, War",Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore",24
+City of God,8.6,2002,130,"Caper, Coming-of-Age, Gangster, Crime, Drama",Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",25
+The Green Mile,8.6,1999,189,"Period Drama, Prison Drama, Supernatural Fantasy, Tragedy, Crime, Drama, Fantasy, Mystery",Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse",26
+Life Is Beautiful,8.6,1997,116,"Period Drama, Romantic Comedy, Tragedy, Tragic Romance, Comedy, Drama, Romance, War",Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",27
+Terminator 2: Judgment Day,8.6,1991,137,"Action Epic, Artificial Intelligence, Cyberpunk, Dystopian Sci-Fi, Sci-Fi Epic, Time Travel, Action, Adventure, Sci-Fi",James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",28
+Star Wars: Episode IV - A New Hope,8.6,1977,121,"Action Epic, Adventure Epic, Dystopian Sci-Fi, Epic, Fantasy Epic, Quest, Sci-Fi Epic, Space Sci-Fi, Sword & Sorcery, Action",George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher",29
+Back to the Future,8.5,1985,116,"High-Concept Comedy, Teen Adventure, Teen Comedy, Time Travel, Urban Adventure, Adventure, Comedy, Sci-Fi",Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson",30
+Spirited Away,8.6,2001,124,"Anime, Coming-of-Age, Fairy Tale, Hand-Drawn Animation, Quest, Supernatural Fantasy, Adventure, Animation, Family, Fantasy",Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette, Miyu Irino",31
+The Pianist,8.5,2002,150,"Docudrama, Epic, Period Drama, Tragedy, War Epic, Biography, Drama, Music, War",Roman Polanski,"Adrien Brody, Thomas Kretschmann, Frank Finlay",32
+Gladiator,8.5,2000,155,"Action Epic, Adventure Epic, Epic, Period Drama, Sword & Sandal, Action, Adventure, Drama",Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",33
+Parasite,8.5,2019,132,"Dark Comedy, Psychological Thriller, Tragedy, Drama, Thriller",Bong Joon Ho,"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",34
+Psycho,8.5,1960,109,"Dark Comedy, Psychological Horror, Psychological Thriller, Slasher Horror, Suspense Mystery, Drama, Horror, Mystery, Thriller",Alfred Hitchcock,"Anthony Perkins, Janet Leigh, Vera Miles",35
+The Lion King,8.5,1994,88,"Animal Adventure, Coming-of-Age, Hand-Drawn Animation, Jungle Adventure, Adventure, Animation, Drama, Family, Fantasy, Musical",Roger Allers,"Matthew Broderick, Jeremy Irons, James Earl Jones",36
+Grave of the Fireflies,8.5,1988,88,"Adult Animation, Anime, Hand-Drawn Animation, Period Drama, Tragedy, Animation, Drama, War",Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",37
+The Departed,8.5,2006,151,"Cop Drama, Epic, Gangster, Crime, Drama, Thriller",Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",38
+Whiplash,8.5,2014,106,"Psychological Drama, Drama, Music",Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist",39
+Harakiri,8.6,1962,133,"Period Drama, Drama, Mystery",Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",40
+The Prestige,8.5,2006,130,"Period Drama, Steampunk, Tragedy, Drama, Mystery, Sci-Fi, Thriller",Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson",41
+American History X,8.5,1998,119,"Prison Drama, Psychological Drama, Tragedy, Crime, Drama",Tony Kaye,"Edward Norton, Edward Furlong, Beverly DAngelo",42
+Léon: The Professional,8.5,1994,110,"Gangster, One-Person Army Action, Action, Crime, Drama, Thriller",Luc Besson,"Jean Reno, Gary Oldman, Natalie Portman",43
+Spider-Man: Across the Spider-Verse,8.5,2023,140,"Computer Animation, Superhero, Supernatural Fantasy, Teen Adventure, Urban Adventure, Action, Adventure, Animation, Family, Fantasy",Joaquim Dos Santos,"Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",44
+Casablanca,8.5,1942,102,"Psychological Drama, Drama, Romance, War",Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid",45
+The Usual Suspects,8.5,1995,106,"Caper, Gangster, Heist, Psychological Drama, Psychological Thriller, Suspense Mystery, Whodunnit, Crime, Drama, Mystery",Bryan Singer,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri",46
+The Intouchables,8.5,2011,112,"Docudrama, Comedy, Drama",Olivier Nakache,"François Cluzet, Omar Sy, Anne Le Ny",47
+Cinema Paradiso,8.5,1988,174,"Coming-of-Age, Drama, Romance",Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale, Antonella Attili",48
+Alien,8.5,1979,117,"Alien Invasion, Cyberpunk, Monster Horror, Space Sci-Fi, Tragedy, Horror, Sci-Fi",Ridley Scott,"Sigourney Weaver, Tom Skerritt, John Hurt",49
+Modern Times,8.5,1936,87,"Romantic Comedy, Satire, Slapstick, Comedy, Drama, Romance",Charles Chaplin,"Charles Chaplin, Paulette Goddard, Henry Bergman",50
+Rear Window,8.5,1954,112,"Psychological Thriller, Suspense Mystery, Drama, Mystery, Thriller",Alfred Hitchcock,"James Stewart, Grace Kelly, Wendell Corey",51
+Once Upon a Time in the West,8.5,1968,166,"Desert Adventure, Epic, Spaghetti Western, Western Epic, Drama, Western",Sergio Leone,"Henry Fonda, Charles Bronson, Claudia Cardinale",52
+Django Unchained,8.5,2012,165,"Dark Comedy, Epic, One-Person Army Action, Period Drama, Western Epic, Western",Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",53
+City Lights,8.5,1931,87,"Feel-Good Romance, Romantic Comedy, Satire, Slapstick, Comedy, Drama, Romance",Charles Chaplin,"Charles Chaplin, Virginia Cherrill, Florence Lee",54
+Apocalypse Now,8.4,1979,147,"Adventure Epic, Epic, Hard-boiled Detective, Psychological Drama, Quest, Suspense Mystery, War Epic, Drama, Mystery, War",Francis Ford Coppola,"Martin Sheen, Marlon Brando, Robert Duvall",55
+Dune: Part Two,8.5,2024,166,"Action Epic, Desert Adventure, Epic, Sci-Fi Epic, Space Sci-Fi, Action, Adventure, Drama, Sci-Fi",Denis Villeneuve,"Timothée Chalamet, Zendaya, Rebecca Ferguson",56
+WALL·E,8.4,2008,98,"Adventure Epic, Artificial Intelligence, Computer Animation, Dystopian Sci-Fi, Psychological Drama, Space Sci-Fi, Adventure, Animation, Family, Sci-Fi",Andrew Stanton,"Ben Burtt, Elissa Knight, Jeff Garlin",57
+Memento,8.4,2000,113,"Psychological Thriller, Suspense Mystery, Mystery, Thriller",Christopher Nolan,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",58
+Raiders of the Lost Ark,8.4,1981,115,"Adventure Epic, Desert Adventure, Globetrotting Adventure, Quest, Action, Adventure",Steven Spielberg,"Harrison Ford, Karen Allen, Paul Freeman",59
+The Lives of Others,8.4,2006,137,"Political Thriller, Psychological Drama, Spy, Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck, Sebastian Koch",60
+Avengers: Infinity War,8.4,2018,149,"Space Sci-Fi, Superhero, Action, Adventure, Sci-Fi",Anthony Russo,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",61
+Sunset Boulevard,8.4,1950,110,"Dark Comedy, Film Noir, Psychological Drama, Showbiz Drama, Tragedy, Drama",Billy Wilder,"William Holden, Gloria Swanson, Erich von Stroheim",62
+Spider-Man: Into the Spider-Verse,8.4,2018,117,"Computer Animation, Superhero, Supernatural Fantasy, Teen Adventure, Teen Comedy, Urban Adventure, Action, Adventure, Animation, Comedy",Bob Persichetti,"Shameik Moore, Jake Johnson, Hailee Steinfeld",63
+Witness for the Prosecution,8.4,1957,116,"Legal Drama, Legal Thriller, Whodunnit, Crime, Drama, Mystery, Thriller",Billy Wilder,"Tyrone Power, Marlene Dietrich, Charles Laughton",64
+Paths of Glory,8.4,1957,88,"Epic, Psychological Drama, War Epic, Drama, War",Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",65
+The Shining,8.4,1980,146,"Psychological Drama, Psychological Horror, Supernatural Horror, Drama, Horror",Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd",66
+The Great Dictator,8.4,1940,125,"Parody, Satire, Slapstick, Comedy, Drama, War",Charles Chaplin,"Charles Chaplin, Paulette Goddard, Jack Oakie",67
+12th Fail,8.7,2023,147,"Docudrama, Biography, Drama",Vidhu Vinod Chopra,"Vikrant Massey, Medha Shankr, Anant Joshi",68
+Inglourious Basterds,8.4,2009,153,"Dark Comedy, Period Drama, Adventure, Drama, War",Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth",69
+Aliens,8.4,1986,137,"Alien Invasion, Cyberpunk, Monster Horror, Space Sci-Fi, Survival, Tragedy, Action, Adventure, Horror, Sci-Fi",James Cameron,"Sigourney Weaver, Michael Biehn, Carrie Henn",70
+The Dark Knight Rises,8.4,2012,164,"Action Epic, Epic, Superhero, Action, Crime, Drama, Thriller",Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway",71
+Coco,8.4,2017,105,"Computer Animation, Dark Comedy, Supernatural Fantasy, Adventure, Animation, Drama, Family, Fantasy, Music, Mystery",Lee Unkrich,"Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",72
+Amadeus,8.4,1984,160,"Costume Drama, Epic, Period Drama, Tragedy, Biography, Drama, Music",Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",73
+Toy Story,8.3,1995,81,"Buddy Comedy, Computer Animation, Supernatural Fantasy, Urban Adventure, Adventure, Animation, Comedy, Family, Fantasy",John Lasseter,"Tom Hanks, Tim Allen, Don Rickles",74
+Avengers: Endgame,8.4,2019,181,"Space Sci-Fi, Superhero, Time Travel, Tragedy, Action, Adventure, Sci-Fi",Anthony Russo,"Robert Downey Jr., Chris Evans, Mark Ruffalo",75
+Good Will Hunting,8.3,1997,126,"Coming-of-Age, Psychological Drama, Drama, Romance",Gus Van Sant,"Robin Williams, Matt Damon, Ben Affleck",76
+Oldboy,8.3,2003,120,"Dark Comedy, One-Person Army Action, Psychological Drama, Psychological Thriller, Action, Drama, Mystery, Thriller",Park Chan-wook,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",77
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3,1964,95,"Dark Comedy, Farce, Political Drama, Satire, Tragedy, Comedy, War",Stanley Kubrick,"Peter Sellers, George C. Scott, Sterling Hayden",78
+Das Boot,8.4,1981,149,"Epic, War Epic, Drama, War",Wolfgang Petersen,"Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann",79
+Braveheart,8.3,1995,178,"Action Epic, Costume Drama, Epic, Period Drama, War Epic, Biography, Drama, War",Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan",80
+American Beauty,8.3,1999,122,"Psychological Drama, Tragedy, Drama",Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch",81
+Princess Mononoke,8.3,1997,133,"Action Epic, Adult Animation, Adventure Epic, Anime, Dark Fantasy, Fantasy Epic, Hand-Drawn Animation, Quest, Adventure, Animation",Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",82
+High and Low,8.4,1963,143,"Police Procedural, Crime, Drama, Mystery, Thriller",Akira Kurosawa,"Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",83
+Your Name.,8.4,2016,106,"Anime, Shōjo, Animation, Drama, Fantasy, Romance",Makoto Shinkai,"Ryûnosuke Kamiki, Mone Kamishiraishi, Ryo Narita",84
+3 Idiots,8.4,2009,170,"Buddy Comedy, Coming-of-Age, Quirky Comedy, Comedy, Drama",Rajkumar Hirani,"Aamir Khan, Madhavan, Mona Singh",85
+Joker,8.3,2019,122,"Psychological Drama, Psychological Thriller, Tragedy, Crime, Drama, Thriller",Todd Phillips,"Joaquin Phoenix, Robert De Niro, Zazie Beetz",86
+Once Upon a Time in America,8.3,1984,229,"Dark Comedy, Epic, Gangster, Period Drama, Crime, Drama",Sergio Leone,"Robert De Niro, James Woods, Elizabeth McGovern",87
+Capernaum,8.4,2018,126,"Coming-of-Age, Legal Drama, Drama",Nadine Labaki,"Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",88
+Singin in the Rain,8.3,1952,103,"Classic Musical, Feel-Good Romance, Jukebox Musical, Romantic Comedy, Satire, Comedy, Musical, Romance",Stanley Donen,"Gene Kelly, Donald OConnor, Debbie Reynolds",89
+Come and See,8.3,1985,142,"Epic, Period Drama, Tragedy, War Epic, Drama, Thriller, War",Elem Klimov,"Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius",90
+Requiem for a Dream,8.3,2000,102,"Psychological Drama, Tragedy, Drama",Darren Aronofsky,"Ellen Burstyn, Jared Leto, Jennifer Connelly",91
+Star Wars: Episode VI - Return of the Jedi,8.3,1983,131,"Action Epic, Adventure Epic, Dark Fantasy, Dystopian Sci-Fi, Epic, Fantasy Epic, Globetrotting Adventure, Quest, Sci-Fi Epic, Space Sci-Fi",Richard Marquand,"Mark Hamill, Harrison Ford, Carrie Fisher",92
+Toy Story 3,8.3,2010,103,"Computer Animation, Supernatural Fantasy, Urban Adventure, Adventure, Animation, Comedy, Family, Fantasy",Lee Unkrich,"Tom Hanks, Tim Allen, Joan Cusack",93
+The Hunt,8.3,2012,115,"Psychological Drama, Tragedy, Drama",Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",94
+Ikiru,8.3,1952,143,"Psychological Drama, Tragedy, Drama",Akira Kurosawa,"Takashi Shimura, Nobuo Kaneko, Shinichi Himori",95
+Eternal Sunshine of the Spotless Mind,8.3,2004,108,"Dark Romance, Psychological Drama, Drama, Romance, Sci-Fi",Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson",96
+The Chaos Class Failed the Class,8.7,1975,95,"Satire, Comedy",Ertem Egilmez,"Münir Özkul, Tarik Akan, Kemal Sunal",97
+2001: A Space Odyssey,8.3,1968,149,"Adventure Epic, Artificial Intelligence, Epic, Psychological Drama, Sci-Fi Epic, Space Sci-Fi, Adventure, Sci-Fi",Stanley Kubrick,"Keir Dullea, Gary Lockwood, William Sylvester",98
+Incendies,8.3,2010,131,"Suspense Mystery, Drama, Mystery, War",Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette",99
+Reservoir Dogs,8.3,1992,99,"Gangster, Heist, Crime, Thriller",Quentin Tarantino,"Harvey Keitel, Tim Roth, Michael Madsen",100
+The Apartment,8.3,1960,125,"Farce, Holiday Comedy, Holiday Romance, Romantic Comedy, Comedy, Drama, Holiday, Romance",Billy Wilder,"Jack Lemmon, Shirley MacLaine, Fred MacMurray",101
+Lawrence of Arabia,8.3,1962,227,"Adventure Epic, Desert Adventure, Epic, Tragedy, War Epic, Adventure, Biography, Drama, War",David Lean,"Peter OToole, Alec Guinness, Anthony Quinn",102
+Scarface,8.3,1983,170,"Drug Crime, Epic, Gangster, Tragedy, Crime, Drama",Brian De Palma,"Al Pacino, Michelle Pfeiffer, Steven Bauer",103
+Double Indemnity,8.3,1944,107,"Film Noir, Hard-boiled Detective, Crime, Drama, Mystery, Thriller",Billy Wilder,"Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",104
+Heat,8.3,1995,170,"Action Epic, Cop Drama, Epic, Gangster, Heist, Action, Crime, Drama",Michael Mann,"Al Pacino, Robert De Niro, Val Kilmer",105
+North by Northwest,8.3,1959,136,"Spy, Adventure, Drama, Mystery, Thriller",Alfred Hitchcock,"Cary Grant, Eva Marie Saint, James Mason",106
+Up,8.3,2009,96,"Coming-of-Age, Computer Animation, Globetrotting Adventure, Adventure, Animation, Comedy, Drama, Family",Pete Docter,"Edward Asner, Jordan Nagai, John Ratzenberger",107
+Citizen Kane,8.3,1941,119,"Epic, Period Drama, Tragedy, Drama, Mystery",Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",108
+M,8.3,1931,99,"Psychological Thriller, Serial Killer, Suspense Mystery, Crime, Mystery, Thriller",Fritz Lang,"Peter Lorre, Ellen Widmann, Inge Landgut",109
+Full Metal Jacket,8.2,1987,116,"Dark Comedy, Period Drama, Drama, War",Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent DOnofrio",110
+Vertigo,8.2,1958,128,"Psychological Thriller, Tragedy, Mystery, Romance, Thriller",Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",111
+Amélie,8.3,2001,122,"Feel-Good Romance, Quirky Comedy, Romantic Comedy, Comedy, Romance",Jean-Pierre Jeunet,"Audrey Tautou, Mathieu Kassovitz, Rufus",112
+A Separation,8.3,2011,123,"Legal Drama, Psychological Drama, Drama",Asghar Farhadi,"Payman Maadi, Leila Hatami, Sareh Bayat",113
+Like Stars on Earth,8.3,2007,162,"Coming-of-Age, Drama, Family",Aamir Khan,"Darsheel Safary, Aamir Khan, Tisca Chopra",114
+To Kill a Mockingbird,8.3,1962,129,"Legal Drama, Period Drama, Crime, Drama",Robert Mulligan,"Gregory Peck, John Megna, Frank Overton",115
+A Clockwork Orange,8.2,1971,136,"Dark Comedy, Dystopian Sci-Fi, Crime, Sci-Fi",Stanley Kubrick,"Malcolm McDowell, Patrick Magee, Michael Bates",116
+Die Hard,8.2,1988,132,"Disaster, One-Person Army Action, Action, Holiday, Thriller",John McTiernan,"Bruce Willis, Alan Rickman, Bonnie Bedelia",117
+Indiana Jones and the Last Crusade,8.2,1989,127,"Adventure Epic, Desert Adventure, Globetrotting Adventure, Quest, Action, Adventure",Steven Spielberg,"Harrison Ford, Sean Connery, Alison Doody",118
+The Sting,8.2,1973,129,"Caper, Comedy, Crime, Drama",George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",119
+Oppenheimer,8.3,2023,180,"Docudrama, Epic, Historical Epic, Period Drama, Psychological Drama, Biography, Drama, History",Christopher Nolan,"Cillian Murphy, Emily Blunt, Matt Damon",120
+Metropolis,8.3,1927,153,"Dystopian Sci-Fi, Epic, Sci-Fi Epic, Steampunk, Drama, Sci-Fi",Fritz Lang,"Brigitte Helm, Alfred Abel, Gustav Fröhlich",121
+Snatch,8.2,2000,102,"Caper, Dark Comedy, Gangster, Comedy, Crime",Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham",122
+1917,8.2,2019,119,"Epic, Period Drama, War Epic, Action, Drama, War",Sam Mendes,"Dean-Charles Chapman, George MacKay, Daniel Mays",123
+L.A. Confidential,8.2,1997,138,"Conspiracy Thriller, Cop Drama, Hard-boiled Detective, Period Drama, Police Procedural, Suspense Mystery, Whodunnit, Crime, Drama, Mystery",Curtis Hanson,"Kevin Spacey, Russell Crowe, Guy Pearce",124
+Bicycle Thieves,8.2,1948,89,"Tragedy, Drama",Vittorio De Sica,"Lamberto Maggiorani, Enzo Staiola, Lianella Carell",125
+Downfall,8.2,2004,156,"Docudrama, Political Drama, Tragedy, Biography, Drama, History, War",Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes",126
+Dangal,8.3,2016,161,"Coming-of-Age, Martial Arts, Action, Biography, Drama, Sport",Nitesh Tiwari,"Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh",127
+The Wolf of Wall Street,8.2,2013,180,"Dark Comedy, Docudrama, Epic, Raunchy Comedy, Satire, True Crime, Biography, Comedy, Crime, Drama",Martin Scorsese,"Leonardo DiCaprio, Jonah Hill, Margot Robbie",128
+Hamilton,8.3,2020,160,"Epic, Historical Epic, Biography, Drama, History, Musical",Thomas Kail,"Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.",129
+Taxi Driver,8.2,1976,114,"Psychological Drama, Crime, Drama",Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",130
+Green Book,8.2,2018,130,"Docudrama, Period Drama, Road Trip, Biography, Comedy, Drama, Music",Peter Farrelly,"Viggo Mortensen, Mahershala Ali, Linda Cardellini",131
+Batman Begins,8.2,2005,140,"Action Epic, Epic, Superhero, Tragedy, Action, Crime, Drama, Thriller",Christopher Nolan,"Christian Bale, Michael Caine, Ken Watanabe",132
+For a Few Dollars More,8.2,1965,132,"One-Person Army Action, Spaghetti Western, Drama, Western",Sergio Leone,"Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",133
+The Truman Show,8.2,1998,103,"Dark Comedy, High-Concept Comedy, Psychological Drama, Satire, Showbiz Drama, Comedy, Drama",Peter Weir,"Jim Carrey, Ed Harris, Laura Linney",134
+Judgment at Nuremberg,8.3,1961,179,"Legal Drama, Drama, War",Stanley Kramer,"Spencer Tracy, Burt Lancaster, Richard Widmark",135
+Some Like It Hot,8.2,1959,121,"Buddy Comedy, Farce, Romantic Comedy, Satire, Screwball Comedy, Comedy, Music, Romance",Billy Wilder,"Marilyn Monroe, Tony Curtis, Jack Lemmon",136
+Shutter Island,8.2,2010,138,"Psychological Thriller, Suspense Mystery, Drama, Mystery, Thriller",Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",137
+The Kid,8.2,1921,68,"Buddy Comedy, Slapstick, Comedy, Drama, Family",Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan",138
+The Father,8.2,2020,97,"Psychological Drama, Drama, Mystery",Florian Zeller,"Anthony Hopkins, Olivia Colman, Mark Gatiss",139
+All About Eve,8.2,1950,138,"Showbiz Drama, Drama",Joseph L. Mankiewicz,"Bette Davis, Anne Baxter, George Sanders",140
+Jurassic Park,8.2,1993,127,"Dinosaur Adventure, Jungle Adventure, Action, Adventure, Sci-Fi, Thriller",Steven Spielberg,"Sam Neill, Laura Dern, Jeff Goldblum",141
+There Will Be Blood,8.2,2007,158,"Epic, Period Drama, Psychological Drama, Tragedy, Drama",Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds",142
+The Sixth Sense,8.2,1999,107,"Psychological Drama, Psychological Thriller, Suspense Mystery, Drama, Mystery, Thriller",M. Night Shyamalan,"Bruce Willis, Haley Joel Osment, Toni Collette",143
+Casino,8.2,1995,178,"Docudrama, Epic, Gangster, True Crime, Crime, Drama",Martin Scorsese,"Robert De Niro, Sharon Stone, Joe Pesci",144
+Ran,8.2,1985,160,"Epic, Period Drama, Samurai, Tragedy, War Epic, Action, Drama, War",Akira Kurosawa,"Tatsuya Nakadai, Akira Terao, Jinpachi Nezu",145
+Top Gun: Maverick,8.2,2022,130,"Action Epic, Epic, Action, Drama",Joseph Kosinski,"Tom Cruise, Jennifer Connelly, Miles Teller",146
+No Country for Old Men,8.2,2007,122,"Contemporary Western, Psychological Thriller, Serial Killer, Crime, Drama, Thriller",Ethan Coen,"Tommy Lee Jones, Javier Bardem, Josh Brolin",147
+The Thing,8.2,1982,109,"Alien Invasion, Body Horror, Monster Horror, Supernatural Horror, Tragedy, Horror, Mystery, Sci-Fi",John Carpenter,"Kurt Russell, Wilford Brimley, Keith David",148
+Pans Labyrinth,8.2,2006,118,"Coming-of-Age, Dark Fantasy, Fairy Tale, Period Drama, Supernatural Fantasy, Teen Fantasy, Tragedy, Drama, Fantasy, War",Guillermo del Toro,"Ivana Baquero, Ariadna Gil, Sergi López",149
+Unforgiven,8.2,1992,130,"Period Drama, Tragedy, Drama, Western",Clint Eastwood,"Clint Eastwood, Gene Hackman, Morgan Freeman",150
+A Beautiful Mind,8.2,2001,135,"Docudrama, Period Drama, Psychological Drama, Biography, Drama, Mystery",Ron Howard,"Russell Crowe, Ed Harris, Jennifer Connelly",151
+Kill Bill: Vol. 1,8.2,2003,111,"Kung Fu, Martial Arts, One-Person Army Action, Action, Crime, Thriller",Quentin Tarantino,"Uma Thurman, David Carradine, Daryl Hannah",152
+The Treasure of the Sierra Madre,8.2,1948,126,"Tragedy, Adventure, Drama, Western",John Huston,"Humphrey Bogart, Walter Huston, Tim Holt",153
+Prisoners,8.2,2013,153,"Psychological Thriller, Suspense Mystery, Crime, Drama, Mystery, Thriller",Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal, Viola Davis",154
+Yojimbo,8.2,1961,110,"One-Person Army Action, Period Drama, Samurai, Action, Drama, Thriller",Akira Kurosawa,"Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai",155
+Finding Nemo,8.2,2003,100,"Animal Adventure, Buddy Comedy, Computer Animation, Quest, Sea Adventure, Adventure, Animation, Comedy, Family",Andrew Stanton,"Albert Brooks, Ellen DeGeneres, Alexander Gould",156
+Howls Moving Castle,8.2,2004,119,"Adventure Epic, Anime, Hand-Drawn Animation, Supernatural Fantasy, Adventure, Animation, Family, Fantasy",Hayao Miyazaki,"Chieko Baishô, Takuya Kimura, Tatsuya Gashûin",157
+The Great Escape,8.2,1963,172,"Epic, Period Drama, Prison Drama, War Epic, Adventure, Drama, Thriller, War",John Sturges,"Steve McQueen, James Garner, Richard Attenborough",158
+Monty Python and the Holy Grail,8.2,1975,91,"Farce, Parody, Quest, Satire, Sketch Comedy, Slapstick, Sword & Sorcery, Adventure, Comedy, Fantasy",Terry Gilliam,"Graham Chapman, John Cleese, Eric Idle",159
+The Elephant Man,8.2,1980,124,"Docudrama, Period Drama, Tragedy, Biography, Drama",David Lynch,"Anthony Hopkins, John Hurt, Anne Bancroft",160
+Dial M for Murder,8.2,1954,105,"Crime, Drama, Mystery, Thriller",Alfred Hitchcock,"Ray Milland, Grace Kelly, Robert Cummings",161
+Klaus,8.2,2019,96,"Hand-Drawn Animation, Holiday Animation, Holiday Comedy, Holiday Family, Adventure, Animation, Comedy, Family, Fantasy, Holiday",Sergio Pablos,"Jason Schwartzman, J.K. Simmons, Rashida Jones",162
+Gone with the Wind,8.2,1939,238,"Costume Drama, Epic, Period Drama, Romantic Epic, Tragic Romance, War Epic, Drama, Romance, War",Victor Fleming,"Clark Gable, Vivien Leigh, Thomas Mitchell",163
+Rashomon,8.2,1950,88,"Period Drama, Crime, Drama, Mystery",Akira Kurosawa,"Toshirô Mifune, Machiko Kyô, Masayuki Mori",164
+Chinatown,8.1,1974,130,"Conspiracy Thriller, Hard-boiled Detective, Psychological Drama, Psychological Thriller, Tragedy, Drama, Mystery, Thriller",Roman Polanski,"Jack Nicholson, Faye Dunaway, John Huston",165
+The Secret in Their Eyes,8.2,2009,129,"Dark Romance, Erotic Thriller, Legal Thriller, Period Drama, Psychological Drama, Psychological Thriller, Suspense Mystery, Tragedy, Whodunnit, Drama",Juan José Campanella,"Ricardo Darín, Soledad Villamil, Pablo Rago",166
+"Lock, Stock and Two Smoking Barrels",8.1,1998,107,"Dark Comedy, Farce, Gangster, Heist, Comedy, Crime",Guy Ritchie,"Jason Flemyng, Dexter Fletcher, Nick Moran",167
+V for Vendetta,8.1,2005,132,"Dystopian Sci-Fi, Political Thriller, Superhero, Action, Drama, Sci-Fi, Thriller",James McTeigue,"Hugo Weaving, Natalie Portman, Rupert Graves",168
+Inside Out,8.1,2015,95,"Coming-of-Age, Computer Animation, Adventure, Animation, Comedy, Drama, Family, Fantasy",Pete Docter,"Amy Poehler, Bill Hader, Lewis Black",169
+"Three Billboards Outside Ebbing, Missouri",8.1,2017,115,"Dark Comedy, Satire, Comedy, Crime, Drama",Martin McDonagh,"Frances McDormand, Woody Harrelson, Sam Rockwell",170
+The Bridge on the River Kwai,8.1,1957,161,"Jungle Adventure, War Epic, Adventure, Drama, War",David Lean,"William Holden, Alec Guinness, Jack Hawkins",171
+Trainspotting,8.1,1996,93,"Dark Comedy, Psychological Drama, Drama",Danny Boyle,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller",172
+Catch Me If You Can,8.1,2002,141,"Caper, Coming-of-Age, Docudrama, Globetrotting Adventure, Period Drama, True Crime, Biography, Crime, Drama",Steven Spielberg,"Leonardo DiCaprio, Tom Hanks, Christopher Walken",173
+Raging Bull,8.1,1980,129,"Boxing, Docudrama, Period Drama, Biography, Drama, Sport",Martin Scorsese,"Robert De Niro, Cathy Moriarty, Joe Pesci",174
+The Wild Robot,8.2,2024,102,"Artificial Intelligence, Computer Animation, Survival, Animation, Sci-Fi",Chris Sanders,"Lupita Nyongo, Pedro Pascal, Kit Connor",175
+Fargo,8.1,1996,98,"Cop Drama, Dark Comedy, Police Procedural, Tragedy, Crime, Drama, Thriller",Joel Coen,"William H. Macy, Frances McDormand, Steve Buscemi",176
+Warrior,8.1,2011,140,"Boxing, Action, Drama, Sport",Gavin OConnor,"Tom Hardy, Nick Nolte, Joel Edgerton",177
+Harry Potter and the Deathly Hallows: Part 2,8.1,2011,130,"Dark Fantasy, Fantasy Epic, Teen Adventure, Teen Fantasy, Adventure, Family, Fantasy, Mystery",David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint",178
+Gran Torino,8.1,2008,116,Drama,Clint Eastwood,"Clint Eastwood, Bee Vang, Christopher Carley",179
+Million Dollar Baby,8.1,2004,132,"Boxing, Tragedy, Drama, Sport",Clint Eastwood,"Hilary Swank, Clint Eastwood, Morgan Freeman",180
+Ben-Hur,8.1,1959,212,"Adventure Epic, Epic, Period Drama, Sword & Sandal, Adventure, Drama",William Wyler,"Charlton Heston, Jack Hawkins, Stephen Boyd",181
+Mad Max: Fury Road,8.1,2015,120,"Action Epic, Adventure Epic, Car Action, Desert Adventure, Dystopian Sci-Fi, Epic, Quest, Road Trip, Action, Adventure",George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult",182
+My Neighbor Totoro,8.1,1988,86,"Anime, Hand-Drawn Animation, Iyashikei, Animation, Comedy, Family, Fantasy",Hayao Miyazaki,"Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",183
+Barry Lyndon,8.1,1975,185,"Costume Drama, Dark Comedy, Epic, Period Drama, Adventure, Drama, War",Stanley Kubrick,"Ryan ONeal, Marisa Berenson, Patrick Magee",184
+Spider-Man: No Way Home,8.2,2021,148,"Superhero, Supernatural Fantasy, Urban Adventure, Action, Adventure, Fantasy, Sci-Fi",Jon Watts,"Tom Holland, Zendaya, Benedict Cumberbatch",185
+Dead Poets Society,8.1,1989,128,"Coming-of-Age, Teen Drama, Comedy, Drama",Peter Weir,"Robin Williams, Robert Sean Leonard, Ethan Hawke",186
+Children of Heaven,8.2,1997,89,"Drama, Family, Sport",Majid Majidi,"Reza Naji, Amir Farrokh Hashemian, Bahare Seddiqi",187
+12 Years a Slave,8.1,2013,134,"Costume Drama, Docudrama, Epic, Period Drama, Tragedy, Biography, Drama, History",Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",188
+The Grand Budapest Hotel,8.1,2014,99,"Quirky Comedy, Comedy, Drama",Wes Anderson,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",189
+Before Sunrise,8.1,1995,101,"Comedy, Drama, Romance",Richard Linklater,"Ethan Hawke, Julie Delpy, Andrea Eckert",190
+Hacksaw Ridge,8.1,2016,139,"Docudrama, Epic, Period Drama, War Epic, Biography, Drama, History, War",Mel Gibson,"Andrew Garfield, Sam Worthington, Luke Bracey",191
+Blade Runner,8.1,1982,117,"Artificial Intelligence, Cyber Thriller, Cyberpunk, Dystopian Sci-Fi, Action, Drama, Sci-Fi, Thriller",Ridley Scott,"Harrison Ford, Rutger Hauer, Sean Young",192
+Gone Girl,8.1,2014,149,"Erotic Thriller, Psychological Drama, Psychological Thriller, Suspense Mystery, Tragedy, Whodunnit, Drama, Mystery, Thriller",David Fincher,"Ben Affleck, Rosamund Pike, Neil Patrick Harris",193
+Memories of Murder,8.1,2003,132,"Dark Comedy, Police Procedural, Serial Killer, True Crime, Crime, Drama, Mystery, Thriller",Bong Joon Ho,"Song Kang-ho, Kim Sang-kyung, Kim Roe-ha",194
+Ratatouille,8.1,2007,111,"Animal Adventure, Computer Animation, Satire, Adventure, Animation, Comedy, Family, Fantasy",Brad Bird,"Brad Garrett, Lou Romano, Patton Oswalt",195
+"Monsters, Inc.",8.1,2001,92,"Buddy Comedy, Computer Animation, Satire, Slapstick, Supernatural Fantasy, Urban Adventure, Adventure, Animation, Comedy, Family",Pete Docter,"Billy Crystal, John Goodman, Mary Gibbs",196
+In the Name of the Father,8.1,1993,133,"Docudrama, Legal Drama, Period Drama, Prison Drama, Tragedy, True Crime, Biography, Crime, Drama",Jim Sheridan,"Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie",197
+How to Train Your Dragon,8.1,2010,98,"Computer Animation, Sword & Sorcery, Teen Fantasy, Action, Adventure, Animation, Family, Fantasy",Dean DeBlois,"Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",198
+Wild Tales,8.1,2014,122,"Dark Comedy, Comedy, Drama, Thriller",Damián Szifron,"Darío Grandinetti, María Marull, Mónica Villa",199
+The Gold Rush,8.1,1925,95,"Farce, Feel-Good Romance, Romantic Comedy, Slapstick, Adventure, Comedy, Drama, Romance, Western",Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",200
+Sherlock Jr.,8.2,1924,45,"Bumbling Detective, Farce, Feel-Good Romance, Slapstick, Action, Comedy, Romance",Buster Keaton,"Buster Keaton, Kathryn McGuire, Joe Keaton",201
+Jaws,8.1,1975,124,"Monster Horror, Sea Adventure, Survival, Adventure, Drama, Horror, Thriller",Steven Spielberg,"Roy Scheider, Robert Shaw, Richard Dreyfuss",202
+Mary and Max,8.1,2009,92,"Adult Animation, Coming-of-Age, Dark Comedy, Stop Motion Animation, Animation, Comedy, Drama",Adam Elliot,"Toni Collette, Philip Seymour Hoffman, Eric Bana",203
+The Deer Hunter,8.1,1978,183,"Epic, War Epic, Drama, War",Michael Cimino,"Robert De Niro, Christopher Walken, John Cazale",204
+Ford v Ferrari,8.1,2019,152,"Docudrama, Motorsport, Period Drama, Action, Biography, Drama, Sport",James Mangold,"Matt Damon, Christian Bale, Jon Bernthal",205
+The General,8.1,1926,78,"Farce, Slapstick, Action, Adventure, Comedy, Drama, War",Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",206
+The Wages of Fear,8.1,1953,156,"Psychological Drama, Survival, Adventure, Drama, Thriller",Henri-Georges Clouzot,"Yves Montand, Charles Vanel, Peter van Eyck",207
+Mr. Smith Goes to Washington,8.1,1939,129,"Political Drama, Comedy, Drama",Frank Capra,"James Stewart, Jean Arthur, Claude Rains",208
+On the Waterfront,8.1,1954,108,"Legal Drama, Legal Thriller, Crime, Drama, Thriller",Elia Kazan,"Marlon Brando, Karl Malden, Lee J. Cobb",209
+Wild Strawberries,8.1,1957,92,"Psychological Drama, Drama, Romance",Ingmar Bergman,"Victor Sjöström, Bibi Andersson, Ingrid Thulin",210
+Logan,8.1,2017,137,"Dystopian Sci-Fi, Road Trip, Superhero, Action, Drama, Sci-Fi, Thriller",James Mangold,"Hugh Jackman, Patrick Stewart, Dafne Keen",211
+Rocky,8.1,1976,120,"Boxing, Drama, Sport",John G. Avildsen,"Sylvester Stallone, Talia Shire, Burt Young",212
+The Third Man,8.1,1949,104,"Film Noir, Hard-boiled Detective, Whodunnit, Drama, Mystery, Thriller",Carol Reed,"Orson Welles, Joseph Cotten, Alida Valli",213
+Tokyo Story,8.1,1953,137,"Psychological Drama, Drama",Yasujirô Ozu,"Chishû Ryû, Chieko Higashiyama, Sô Yamamura",214
+Spotlight,8.1,2015,129,"Docudrama, Legal Drama, Period Drama, True Crime, Workplace Drama, Biography, Crime, Drama",Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams",215
+The Big Lebowski,8.1,1998,117,"Buddy Comedy, Drug Crime, Satire, Stoner Comedy, Comedy, Crime",Joel Coen,"Jeff Bridges, John Goodman, Julianne Moore",216
+The Terminator,8.1,1984,107,"Artificial Intelligence, Cyberpunk, Dystopian Sci-Fi, Time Travel, Urban Adventure, Action, Adventure, Sci-Fi",James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",217
+Maharaja,8.4,2024,141,"One-Person Army Action, Action, Crime, Drama, Thriller",Nithilan Saminathan,"Vijay Sethupathi, Anurag Kashyap, Mamta Mohandas",218
+The Seventh Seal,8.1,1957,96,"Psychological Drama, Drama, Fantasy",Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",219
+Pirates of the Caribbean: The Curse of the Black Pearl,8.1,2003,143,"Sea Adventure, Supernatural Fantasy, Swashbuckler, Sword & Sandal, Action, Adventure, Fantasy",Gore Verbinski,"Johnny Depp, Geoffrey Rush, Orlando Bloom",220
+Room,8.1,2015,118,"Psychological Drama, Drama, Thriller",Lenny Abrahamson,"Brie Larson, Jacob Tremblay, Sean Bridgers",221
+La haine,8.1,1995,98,"Gangster, Psychological Drama, Crime, Drama",Mathieu Kassovitz,"Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",222
+Jai Bhim,8.6,2021,164,"Legal Drama, Crime, Drama",T.J. Gnanavel,"Suriya, Lijo Mol Jose, Manikandan K.",223
+Hotel Rwanda,8.1,2004,121,"Docudrama, Epic, Biography, Drama, History, War",Terry George,"Don Cheadle, Sophie Okonedo, Joaquin Phoenix",224
+Platoon,8.1,1986,120,"Drama, War",Oliver Stone,"Charlie Sheen, Tom Berenger, Willem Dafoe",225
+The Best Years of Our Lives,8.1,1946,170,"Epic, Feel-Good Romance, Drama, Romance, War",William Wyler,"Myrna Loy, Dana Andrews, Fredric March",226
+Before Sunset,8.1,2004,80,"Feel-Good Romance, Drama, Romance",Richard Linklater,"Ethan Hawke, Julie Delpy, Vernon Dobtcheff",227
+Im Still Here,8.2,2024,137,"Docudrama, Period Drama, Political Drama, Biography, Drama, History",Walter Salles,"Fernanda Torres, Fernanda Montenegro, Selton Mello",228
+The Exorcist,8.1,1973,122,"Body Horror, Psychological Drama, Psychological Horror, Supernatural Horror, Tragedy, Horror",William Friedkin,"Ellen Burstyn, Max von Sydow, Linda Blair",229
+The Sound of Music,8.1,1965,172,"Classic Musical, Epic, Period Drama, Biography, Drama, Family, Musical, Romance",Robert Wise,"Julie Andrews, Christopher Plummer, Eleanor Parker",230
+The Passion of Joan of Arc,8.1,1928,114,"Legal Drama, Period Drama, Psychological Drama, Tragedy, Biography, Drama, History",Carl Theodor Dreyer,"Maria Falconetti, Eugene Silvain, André Berley",231
+The Wizard of Oz,8.1,1939,102,"Adventure Epic, Classic Musical, Fairy Tale, Fantasy Epic, Quest, Adventure, Family, Fantasy, Musical",Victor Fleming,"Judy Garland, Frank Morgan, Ray Bolger",232
+The Incredibles,8,2004,115,"Computer Animation, Superhero, Action, Adventure, Animation, Family",Brad Bird,"Craig T. Nelson, Samuel L. Jackson, Holly Hunter",233
+Hachi: A Dogs Tale,8.1,2009,93,"Animal Adventure, Biography, Drama, Family",Lasse Hallström,"Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa",234
+Rush,8.1,2013,123,"Docudrama, Motorsport, Period Drama, Biography, Drama, Sport",Ron Howard,"Daniel Brühl, Chris Hemsworth, Olivia Wilde",235
+Stand by Me,8.1,1986,89,"Coming-of-Age, Dark Comedy, Quest, Adventure, Comedy, Drama",Rob Reiner,"Wil Wheaton, River Phoenix, Corey Feldman",236
+My Father and My Son,8.2,2005,112,"Coming-of-Age, Political Drama, Drama, Family",Çagan Irmak,"Çetin Tekindor, Fikret Kuskan, Hümeyra",237
+Network,8.1,1976,121,"Dark Comedy, Workplace Drama, Drama",Sidney Lumet,"Faye Dunaway, William Holden, Peter Finch",238
+The Iron Giant,8.1,1999,86,"Alien Invasion, Artificial Intelligence, Hand-Drawn Animation, High-Concept Comedy, Kaiju, Space Sci-Fi, Action, Adventure, Animation, Comedy",Brad Bird,"Eli Marienthal, Harry Connick Jr., Jennifer Aniston",239
+The Handmaiden,8.1,2016,145,"Dark Romance, Erotic Thriller, Psychological Thriller, Steamy Romance, Drama, Romance, Thriller",Park Chan-wook,"Kim Min-hee, Ha Jung-woo, Cho Jin-woong",240
+A Silent Voice: The Movie,8.1,2016,130,"Anime, Coming-of-Age, Psychological Drama, Shōnen, Slice of Life, Animation, Drama",Naoko Yamada,"Miyu Irino, Saori Hayami, Aoi Yûki",241
+The Battle of Algiers,8.1,1966,121,"Docudrama, Political Drama, Drama, War",Gillo Pontecorvo,"Brahim Hadjadj, Jean Martin, Yacef Saadi",242
+To Be or Not to Be,8.1,1942,99,"Screwball Comedy, Comedy, Romance, War",Ernst Lubitsch,"Carole Lombard, Jack Benny, Robert Stack",243
+The Grapes of Wrath,8.1,1940,129,"Period Drama, Tragedy, Drama",John Ford,"Henry Fonda, Jane Darwell, John Carradine",244
+Into the Wild,8,2007,148,"Coming-of-Age, Docudrama, Road Trip, Survival, Tragedy, Adventure, Biography, Drama",Sean Penn,"Emile Hirsch, Vince Vaughn, Catherine Keener",245
+Groundhog Day,8,1993,101,"Feel-Good Romance, High-Concept Comedy, Holiday Comedy, Holiday Romance, Romantic Comedy, Comedy, Drama, Fantasy, Romance",Harold Ramis,"Bill Murray, Andie MacDowell, Chris Elliott",246
+The Help,8.1,2011,146,"Period Drama, Drama",Tate Taylor,"Viola Davis, Emma Stone, Octavia Spencer",247
+Amores Perros,8,2000,154,"Tragedy, Drama, Thriller",Alejandro G. Iñárritu,"Emilio Echevarría, Gael García Bernal, Goya Toledo",248
+Drishyam,8.2,2015,163,"Suspense Mystery, Crime, Drama, Mystery, Thriller",Nishikant Kamat,"Ajay Devgn, Shriya Saran, Tabu",249
+Rebecca,8.1,1940,130,"Dark Romance, Psychological Drama, Psychological Thriller, Suspense Mystery, Drama, Mystery, Romance, Thriller",Alfred Hitchcock,"Laurence Olivier, Joan Fontaine, George Sanders",250

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Game App</title>
+  <link rel="icon" href="static/favicon.png" type="image/png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="relative min-h-screen flex items-center justify-center overflow-hidden">
+  <!-- Background Image Layer -->
+  <div class="absolute inset-0 bg-cover bg-center blur-[0px] z-0" style="background-image: url('/static/bg1.jpg');"></div>
+  <div class="relative z-10 bg-[#784DEB] p-8 rounded shadow-lg flex flex-col items-center gap-6">
+    <h1 class="text-3xl font-bold text-[#ffffff] mb-4">Welcome to the Game App</h1>
+    <a href="{{ url_for('recommend') }}" class="w-full text-center bg-[#D62FB9] text-white px-6 py-3 rounded hover:bg-[#961D80] transition">Recommend Games</a>
+  </div>
+</body>
+</html>
